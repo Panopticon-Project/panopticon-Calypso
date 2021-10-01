@@ -7,3 +7,5 @@ https://www.securityweek.com/least-10-threat-actors-targeting-recent-microsoft-e
 https://www.recordedfuture.com/chinese-group-calypso-exploiting-microsoft-exchange/
 
 https://cybernews.com/security/10-apt-groups-that-joined-the-ms-exchange-exploitation-party/
+
+https://www.securityweek.com/china-intensified-attacks-major-afghan-telecom-firm-us-finalized-withdrawal
